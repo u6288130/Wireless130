@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182181010045",
+    "project_id": "wireless-620f9",
+    "storage_bucket": "wireless-620f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182181010045:android:f92be2e2814727965e2f14",
+        "android_client_info": {
+          "package_name": "com.example.loginsystem130"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182181010045-esqog8i361k85f76ot6bjk9uhnq4s2r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD373_7qHLfwDxVrEi9n_xs-NxO_bTi-V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182181010045-esqog8i361k85f76ot6bjk9uhnq4s2r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
